@@ -64,7 +64,7 @@ Switch to `pages/api/products/[id].js` and adapt it as explained above:
 - To find a single product by its id, you can use the `Product` model and the `.findById()` method: `Product.findById(id)`.
 - Delete `lib/products.js` because it is not used anymore.
 
-Open the browser and check the details pages: they should now work as well!
+Open the browser and check the details pages: they should now work as well!!
 
 ### Bonus: Populate Reviews
 
